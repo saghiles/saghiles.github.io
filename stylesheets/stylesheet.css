@@ -255,9 +255,7 @@ a {
     
     
     
-    
-    
-    
+   
     
     
     
@@ -295,8 +293,10 @@ height: 100%;
 /*margin-top: 10px;
 margin-bottom: auto;*/
 text-align: right;
-width: 30%;
-margin-left: 26%;
+/*width: 30%;
+margin-left: 26%;*/
+text-align: right;
+width: 56%;
 }
 
 nav ul {
