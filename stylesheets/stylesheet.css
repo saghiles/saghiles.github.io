@@ -114,9 +114,17 @@ a {
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
   margin-top: 20px;
   margin-bottom: 10px;
-  font-weight: normal;
-  color: #159957; }
-  
+  font-weight: 500;
+   }
+
+h2 {
+	font-size: 28px;
+} 
+ 
+   
+.publications h3 {
+	font-size: 24px;
+} 
  
   
 .main-content p {
@@ -203,10 +211,10 @@ a {
     padding: 0;
     margin-bottom: 1rem; }
 .main-content hr {
-  height: 2px;
+  height: 1px;
   padding: 0;
   margin: 1rem 0;
-  background-color: #eff0f1;
+  background-color: #eaecef;
   border: 0; }
 
 @media screen and (min-width: 64em) {
