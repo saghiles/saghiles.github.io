@@ -7,10 +7,10 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.5;
-  color: #606c71; }
+  color: #24292e; }
 
 a {
-  color: #1e6bb8;
+  color: #0366d6;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
@@ -298,7 +298,9 @@ h2 {
 	display: inline-block;
 }     
     
-    
+.publications h3 {
+color: #586069;
+}	
     
 
 
@@ -389,9 +391,13 @@ h3 .dep_year_teach
   margin-top: 5px;
   margin-bottom: 10px;
   font-weight: normal;
-  color: #606c71;
+  color: #24292e;
   font-weight: bold;
   } 
+  
+.publications .title{
+	color: #24292e;
+}
 
 .perso_info {
 	margin-top: -5px;
