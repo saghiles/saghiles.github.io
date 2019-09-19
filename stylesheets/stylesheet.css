@@ -317,6 +317,7 @@ nav li
 {
 	padding-bottom: 8px;
 	font-size: 14px;
+	color: #586069;
 
 }
 
@@ -376,3 +377,12 @@ h3 .dep_year_teach
 #publi{
 font-size: 0.85em;
 }
+
+#teaching h3{
+	color: #586069
+}
+
+
+
+
+
