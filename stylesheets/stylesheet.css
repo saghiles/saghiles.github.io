@@ -307,12 +307,12 @@ margin-bottom: auto;
 height: 100%;
 }
 
-#software li:not(:last-child) {
-    margin-bottom: 15px;
-}
-
 #software{
 	margin-bottom: 40px;
+}
+
+#software li:not(:last-child) {
+    margin-bottom: 15px;
 }
 
 
