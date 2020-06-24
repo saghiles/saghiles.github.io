@@ -297,7 +297,7 @@ margin-bottom: auto;*/
 /*width: 30%;
 margin-left: 26%;*/
 text-align: left;
-width: 75%;
+width: 100%;
 }
 
 nav ul {
@@ -320,6 +320,10 @@ height: 100%;
 }
 
 #awards li:not(:last-child) {
+    margin-bottom: 15px;
+}
+
+#blog li:not(:last-child) {
     margin-bottom: 15px;
 }
 
